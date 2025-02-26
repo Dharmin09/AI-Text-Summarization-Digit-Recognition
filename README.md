@@ -90,19 +90,3 @@ pip install tensorflow numpy matplotlib
 📧 **Contact:**  
 - **GitHub:** [Dharmin09](https://github.com/Dharmin09)  
 - **LinkedIn:** [Dharmin Tank](https://www.linkedin.com/in/dharmin09/)  
-
----
-
-## 📢 How to Add This to Your GitHub Repository?  
-1️⃣ Save this file as `README.md` in your repository folder.  
-2️⃣ Upload it to GitHub using:  
-   ```sh
-   git add README.md
-   git commit -m "Added README for AI Projects"
-   git push origin main
-   ```
-3️⃣ Alternatively, manually upload it via **GitHub UI** → **Add File** → **Upload Files** → Select `README.md` → **Commit Changes**.  
-
----
-
-This **single README file** covers both projects in a **clean and structured** manner. 🚀🔥  
