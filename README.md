@@ -1,4 +1,4 @@
-# 🧠 AI-Based Projects: Text Summarization & Handwritten Digit Recognition 🚀  
+# AI-Based Projects: Text Summarization & Handwritten Digit Recognition 🚀  
 
 This repository contains two deep learning projects:  
 
@@ -15,9 +15,9 @@ Both projects are implemented using **TensorFlow/Keras** and trained on sample d
 This project focuses on **text summarization** using **Long Short-Term Memory (LSTM) networks**. The model is trained on sample AI-related text data and uses **tokenization and padding** to prepare input sequences.  
 
 ### 🚀 **Features**  
-✅ Implements **Natural Language Processing (NLP)** techniques.  
-✅ Uses **LSTM (Long Short-Term Memory)** networks.  
-✅ Tokenizes input text and converts it into numerical sequences.  
+1. Implements **Natural Language Processing (NLP)** techniques.  
+2. Uses **LSTM (Long Short-Term Memory)** networks.  
+3. Tokenizes input text and converts it into numerical sequences.  
 
 ### 🔧 **Installation**  
 Make sure you have Python installed and run:  
@@ -28,7 +28,7 @@ pip install tensorflow numpy
 ### 📛 **How to Run**  
 Run the script using:  
 ```sh
-python text_summarization_lstm.py
+python Text_Summarization.py
 ```
 
 ### 🖼️ **Sample Output**  
@@ -45,9 +45,9 @@ Text summarization model training complete!
 This project implements a **Convolutional Neural Network (CNN)** to classify handwritten digits from `0` to `9` using the **MNIST dataset**. The model achieves **high accuracy** and can predict digits from unseen test data.  
 
 ### 🚀 **Features**  
-✅ Uses **Convolutional Neural Networks (CNNs)**.  
-✅ Trained on the **MNIST dataset**.  
-✅ Achieves **97%+ accuracy**.  
+1. Uses **Convolutional Neural Networks (CNNs)**.  
+2. Trained on the **MNIST dataset**.  
+3. Achieves **97%+ accuracy**.  
 
 ### 🔧 **Installation**  
 Make sure you have Python installed and run:  
@@ -58,7 +58,7 @@ pip install tensorflow matplotlib
 ### 📛 **How to Run**  
 Run the script using:  
 ```sh
-python digit_recognition_cnn.py
+python handwritten_digit_recognition_model.py
 ```
 
 ### 📛 **Dataset**  
@@ -88,5 +88,4 @@ pip install tensorflow numpy matplotlib
 **Dharmin Tank**  
 
 📧 **Contact:**  
-- **GitHub:** [Dharmin09](https://github.com/Dharmin09)  
 - **LinkedIn:** [Dharmin Tank](https://www.linkedin.com/in/dharmin09/)  
