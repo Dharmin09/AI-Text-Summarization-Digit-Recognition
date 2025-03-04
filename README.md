@@ -1,4 +1,4 @@
-# AI-Based Projects: Text Summarization & Handwritten Digit Recognition 🚀  
+# AI-Based Projects: Text Summarization & Handwritten Digit Recognition 
 
 This repository contains two deep learning projects:  
 
